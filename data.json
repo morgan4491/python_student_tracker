@@ -1,0 +1,14 @@
+[
+    {
+        "first_name": "Matt",
+        "last_name": "Morgan",
+        "course_type": "Software Dev",
+        "university": "Rutgers"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Smith",
+        "course_type": "Software Dev",
+        "university": "Rutgers"
+    }
+]
